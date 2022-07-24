@@ -5,7 +5,7 @@ object apiPost {
    
   def main(args: Array[String]): Unit = {
    
-    val url = "https://script.google.com/macros/s/AKfycbxQDsWrkHH3IV2Wj3wkVED2nUyuViAiLjupBL63cJO5Ca1PmI0F/exec"
+    val url = ""
     //val topic = readLine("Topic? ")
     //val description = readLine("Description? ")
 
